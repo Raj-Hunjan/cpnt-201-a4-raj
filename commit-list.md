@@ -1,17 +1,12 @@
 # Commit list
 ---
 
-## Christohper Barber (collaborator)
-- [Changed color to Canadian spelling](https://github.com/Raj-Hunjan/cpnt-201-a4-raj/commit/fe8c788630465db0b075c69dd694770bccff3021)
-- [Changed text color to black](https://github.com/Raj-Hunjan/cpnt-201-a4-raj/commit/116aa86aa5437c9c0740919060d346e2b04abcbd)
-- [Added some text](https://github.com/Raj-Hunjan/cpnt-201-a4-raj/commit/c0ec2fb00c25c903399557de94edcf48e5be0246)
-- Added new Paragraph []()
+## HTML edit to the page that you are a collaborator
+- added some text [c93670b29e2997473b2cddc7281d48df24c6ed2e](https://github.com/jaypee06/cpnt-201-A4-Jaypee/pull/6/commits/c93670b29e2997473b2cddc7281d48df24c6ed2e)
 
-## Raj hunjan (collaborator)
-- Changed h1 textContent []()
-- Added margin []()
-- Added paragraph []()
-- Added new paragraph []()
+## CSS Edit to the page that you are a collaborator
+- Changes text color [204ef8847868fa6582aebae68ec7ff34aa4ec394](https://github.com/13retonnian/cpnt201-a4-chris/commit/204ef8847868fa6582aebae68ec7ff34aa4ec394?diff=unified)
+
 
 ## Pull request commit(contributor)
 - HTML []()
@@ -25,3 +20,13 @@
 
 ## Commit Documentation file Added to my repo
 - []()
+
+
+
+Pull Request commit HTML edit to the page that you are contributor
+Pull Request commit CSS edit to the page that you are a contributor
+HTML edit to the page that you are a collaborator
+CSS Edit to the page that you are a collaborator
+One pull request that you merged into your repo
+Resolved Merge Conflict Commit
+Commit documentation file being added to the repo
