@@ -8,8 +8,7 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 - Maintainer: Raj Hunjan
 - Collaborator: Christopher Barber
-- Contributor: Jared Herman
-- Contributor: Jaypee
+- Contributors: Jared Herman and Jaypee
 
 ## Rules
 
