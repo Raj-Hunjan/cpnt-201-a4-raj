@@ -16,15 +16,8 @@
 ## One pull request that you merged into your repo
 - Changed title: [16457ba](https://github.com/Raj-Hunjan/cpnt-201-a4-raj/commit/16457babcc55ebc887b6cc8b3148b6ddc7c0b7ee)
 
+## Resolved Merge Conflict Commit
+- Resolved merge conflict.... I think: [2d50f00](https://github.com/jaypee06/cpnt-201-A4-Jaypee/commit/2d50f0081e4c5105574b4cd30baa31d7707a53a6)
+
 ## Commit Documentation file Added to my repo
-- [Commit List]()
-
-
-
-Pull Request commit HTML edit to the page that you are contributor
-Pull Request commit CSS edit to the page that you are a contributor
-HTML edit to the page that you are a collaborator
-CSS Edit to the page that you are a collaborator
-One pull request that you merged into your repo
-Resolved Merge Conflict Commit
-Commit documentation file being added to the repo
+- Added commit list file [62b0bdb](https://github.com/Raj-Hunjan/cpnt-201-a4-raj/commit/62b0bdb8934d3eb1bad3e479e410312ea06d3549)
